@@ -2,7 +2,7 @@
 
 ![pzxy.logo](https://raw.gitmirror.com/pzxy-cs/.github/main/pzxy.png)
 
-平职IT兴趣小组旨在汇集对计算机技术感兴趣的同学、欢迎各方豪杰加入🎉
+平职IT兴趣小组旨在汇集对计算机技术感兴趣的同学、欢迎各方豪杰加入！🎉
 
 <br/>
 
