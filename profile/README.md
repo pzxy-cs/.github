@@ -25,20 +25,16 @@
 
 <br/>
 
-推荐工具：
+**推荐工具：**
 
 - 代码编辑器：[VSCode](https://code.visualstudio.com/)
 - Markdown编辑器：[typora](https://typora.io/)
 
-<br/>
-
-书籍资源：
+**书籍资源：**
 
 - [ Jasonkay's Book](http://159.75.131.252:20180/)
 
-<br/>
-
-其他提升内容：
+**其他提升内容：**
 
 - Docker、Kubernetes基本使用
 - 基本数据结构、算法知识
@@ -57,4 +53,7 @@
 
 你的 Github ID：
 
-![github-id](https://raw.gitmirror.com/pzxy-cs/.github/main/images/github-id.png)
+<div align=center>
+<img src=https://raw.gitmirror.com/pzxy-cs/.github/main/images/github-id.png style="zoom:33%;" />
+</div>
+
