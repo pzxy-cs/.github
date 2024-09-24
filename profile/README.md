@@ -25,9 +25,28 @@
 
 <br/>
 
+推荐工具：
+
+- 代码编辑器：[VSCode](https://code.visualstudio.com/)
+- Markdown编辑器：[typora](https://typora.io/)
+
+<br/>
+
 其他提升内容：
 
 - Docker、Kubernetes基本使用
 - 基本数据结构、算法知识
 - 操作系统基础知识
 
+
+## 如何加入组织
+
+首先，注册 Github 账号；
+
+然后将你的 GitHub ID 发送给 [Jasonkayzk](https://github.com/jasonkayzk/) ，审核通过后会发送邀请
+
+> 邀请会以邮件的形式发送给你，点击邮箱中的链接即可加入！
+
+你的 Github ID：
+
+![github-id](https://raw.gitmirror.com/pzxy-cs/.github/main/images/github-id.png)
