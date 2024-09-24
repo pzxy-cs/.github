@@ -32,6 +32,12 @@
 
 <br/>
 
+书籍资源：
+
+- [ Jasonkay's Book](http://159.75.131.252:20180/)
+
+<br/>
+
 其他提升内容：
 
 - Docker、Kubernetes基本使用
