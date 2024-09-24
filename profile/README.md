@@ -12,6 +12,7 @@
 
 - **对话式AI工具的使用**，如：[豆包](https://www.doubao.com/chat/)、[文心一言](https://yiyan.baidu.com/)、[ChatGPT](https://chat.tinycms.xyz:3002/)等：
 - **Git工具 + Github 基本使用**：
+  - **Github基本使用（必修）**：https://space.bilibili.com/39665558/channel/collectiondetail?sid=571532
   - Git教程：https://liaoxuefeng.com/books/git/introduction/index.html
   - Git实战：https://learngitbranching.js.org/?locale=zh_CN
 - **基本的文件格式**，如：Markdown、Json、Yaml等
